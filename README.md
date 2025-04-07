@@ -44,3 +44,11 @@
    - 最终，使用 Matplotlib 将预测结果与实际类别一起显示，直观展示模型效果。
 
 ---
+## 实验结果
+1. **模型训练结果**
+![11](https://github.com/user-attachments/assets/94867d31-9369-4fd8-a486-c2352c5921bc)
+
+2. **模型测试结果**
+![1111](https://github.com/user-attachments/assets/8967f24f-da60-4bd0-b631-5f86f741a0e2)
+![11111](https://github.com/user-attachments/assets/931b96ed-a0aa-431f-970d-61a7f1dcd139)
+

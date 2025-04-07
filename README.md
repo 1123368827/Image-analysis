@@ -105,8 +105,16 @@
    - 将预处理后的测试图片输入模型进行预测，并输出预测类别。
 
 ### 实验结果
+1. **模型训练结果**  
 
-（在此处可以添加训练过程曲线、测试指标以及预测示例图片，以直观展示模型表现。）
+<img width="683" alt="11" src="https://github.com/user-attachments/assets/d61aa9dd-6cae-46e0-b42f-eb4d9464b949" />
+
+
+   
+2. **模型测试结果**
+
+<img width="427" alt="111" src="https://github.com/user-attachments/assets/3c356037-d848-4d40-9e3f-da36312f75c3" />
+
 
 ---
 
